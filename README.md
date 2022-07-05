@@ -8,6 +8,11 @@ This repo contains the KiCad files for the AeonLabs LDAD NANO MAX Smart DAQ and 
 
 *Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
 
+
+![](https://github.com/aeonSolutions/AeonLabs-LDAD-NANO-MAX-Smart-DAQ/blob/main/designs/working_yellow.png)  revision 6.1 Waiting for first batch from factory to be tested.
+
+If you already tested this PCB send me a message. Thank you
+
 ## Revisions
 - revision 6.1
   - added MCU firmware download connection 
